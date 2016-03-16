@@ -1,0 +1,46 @@
+
+
+.sidebar {
+  width: 20%;
+  min-height: 2200px;
+  background-color: pink;
+  float: left;
+  text-align: center;
+  margin-right: 12px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.welcome{
+  width: 95%;
+}
+
+.welcome h1 {
+  text-align: center;
+  color: red;
+  margin-bottom: 0%;
+}
+
+.welcome p {
+  text-align: center;
+  color: black;
+}
+
+.column {
+  width: 25%;
+  float: left;
+
+}
+
+img {
+  height: 168px;
+  width: 238px;
+}
+
+.welcome h3 {
+  text-align: center;
+  color: red;
+  margin-top: 10px;
+}
